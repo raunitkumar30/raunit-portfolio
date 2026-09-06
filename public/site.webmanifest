@@ -1,0 +1,17 @@
+{
+  "name": "Raunit Kumar | Software Developer Portfolio",
+  "short_name": "Raunit",
+  "description": "Portfolio of Raunit Kumar — B.Tech IT student & Full-Stack Developer specializing in React, Node.js, and modern web architectures.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/memoji.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

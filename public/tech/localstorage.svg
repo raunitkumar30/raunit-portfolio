@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="lsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+    <linearGradient id="lsTop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <!-- Main Database / Storage Disk Cylinder -->
+  <path d="M6 14 C6 9 14 6 24 6 C34 6 42 9 42 14 V34 C42 39 34 42 24 42 C14 42 6 39 6 34 Z" fill="url(#lsGrad)"/>
+  <ellipse cx="24" cy="14" rx="18" ry="7" fill="url(#lsTop)"/>
+  <!-- Middle Disk Ring -->
+  <path d="M6 24 C6 29 14 32 24 32 C34 32 42 29 42 24" fill="none" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bottom Disk Ring -->
+  <path d="M6 34 C6 39 14 42 24 42 C34 42 42 39 42 34" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Data Indicators (Key-Value Browser Storage) -->
+  <circle cx="15" cy="23" r="2" fill="#ffffff"/>
+  <circle cx="15" cy="33" r="2" fill="#ffffff"/>
+  <rect x="21" y="21.5" width="12" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.9"/>
+  <rect x="21" y="31.5" width="16" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.9"/>
+</svg>
