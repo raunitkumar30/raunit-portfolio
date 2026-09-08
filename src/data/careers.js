@@ -3,7 +3,7 @@ export const careersData = [
     id: "glbajaj",
     role: "B.Tech IT Student",
     company: "GL Bajaj Institute of Technology and Management",
-    period: "2023 - Present",
+    period: "2024 - Present",
     badge: "Current",
     current: true,
     logo: "/company/glbajaj.png",
