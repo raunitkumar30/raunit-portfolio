@@ -65,7 +65,7 @@ export const profileData = {
     },
     {
       degree: "Class X (Secondary School)",
-      institute: "DALIMSS Sunbeam School, Rohania",
+      institute: "DALIMSS Sunbeam School",
       board: "CBSE Board",
       period: "Completed",
     },
